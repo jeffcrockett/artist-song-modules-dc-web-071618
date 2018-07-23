@@ -1,5 +1,5 @@
 require 'pry'
-require '../config.environment.rb'
+# require '../config.environment.rb'
 class Artist
   extend Memorable
   attr_accessor :name
