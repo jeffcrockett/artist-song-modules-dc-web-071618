@@ -1,4 +1,5 @@
 require 'pry'
+require '../config.environment'
 
 class Song
   extend Memorable
