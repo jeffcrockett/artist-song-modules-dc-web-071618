@@ -1,5 +1,5 @@
 require 'pry'
-require '../config.environment'
+require '../config.environment.rb'
 
 class Song
   extend Memorable
