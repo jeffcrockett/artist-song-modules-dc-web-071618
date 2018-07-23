@@ -1,5 +1,5 @@
 require 'pry'
-
+require '../config.environment'
 class Artist
   extend Memorable
   attr_accessor :name
